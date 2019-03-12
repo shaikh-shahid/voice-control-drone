@@ -1,0 +1,20 @@
+{
+  "name": "drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ardrone-autonomy": "^0.1.2",
+    "body-parser": "^1.18.3",
+    "copterface": "^0.2.5",
+    "dronestream": "^1.1.1",
+    "express": "^4.16.4"
+  }
+}
